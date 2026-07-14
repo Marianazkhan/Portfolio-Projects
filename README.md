@@ -24,4 +24,13 @@ Tools Used
 Microsoft Excel
 MySQL
 Power BI
-Git & GitHub
+
+
+
+
+
+
+
+
+
+
